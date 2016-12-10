@@ -1,0 +1,28 @@
+<!doctype html>
+<html ng-app="tempConverter">
+    <head>
+        <meta charset="utf-8">
+        <script src="angular/angular.min.js"></script>
+        <script src="javascripts/tempConvert.js"></script>
+    </head>
+    <body ng-controller="tempConverterController">
+        <input type="text" 
+               name="tempInput" 
+               ng-model="tempInput" /> <br/>
+        <input type="radio" 
+               ng-model="cSelected" 
+               name="tempUnit" 
+               value="C"
+               ng-click="setCSelected()"
+               checked /> Celcius <br/>
+        <input type="radio" 
+               ng-model="fSelected" 
+               name="tempUnit" 
+               value="F"
+               ng-click="setFSelected()" /> Fahrenheit <br/>
+        <p>value entered: {{ tempInput }}</p>
+        <input type="button" name="convert" value="convert"
+               ng-click="doConversion()" />
+        <p>{{ conversionResult }}</p>
+    </body>
+</html>

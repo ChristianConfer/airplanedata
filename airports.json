@@ -1,0 +1,746 @@
+db.airports.save(
+	{
+	airportName: "Dallas/Ft Worth International Airport",
+	iataCode: "DFW",
+	icaoCode: "KDFW",
+	lat: 32.8972316,
+	long: -97.0376949,
+    runways: 
+	[
+		{
+			runway: "17C",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 180,
+			runwayLength: 4085
+		},
+		{
+			runway: "35C",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 000,
+			runwayLength: 4085
+		},
+		{
+			runway: "17R",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 180,
+			runwayLength: 4085
+		},
+		{
+			runway: "35L",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 000,
+			runwayLength: 4085
+		},
+		{
+			runway: "18L",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 180,
+			runwayLength: 4084
+		},
+		{
+			runway: "36R",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 000,
+			runwayLength: 4084
+		},
+		{
+			runway: "18R",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 180,
+			runwayLength: 4084
+		},
+		{
+			runway: "36L",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 000,
+			runwayLength: 4084
+		},
+		{
+			runway: "13R",
+			runwayHeadingMagnetic: 135,
+			runwayHeadingTrue: 139,
+			runwayLength: 2835
+		},
+		{
+			runway: "31L",
+			runwayHeadingMagnetic: 315,
+			runwayHeadingTrue: 319,
+			runwayLength: 2835
+		},
+		{
+			runway: "13L",
+			runwayHeadingMagnetic: 131,
+			runwayHeadingTrue: 135,
+			runwayLength: 2743
+		},
+		{
+			runway: "31R",
+			runwayHeadingMagnetic: 311,
+			runwayHeadingTrue: 315,
+			runwayLength: 2743
+		},
+		{
+			runway: "17L",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 180,
+			runwayLength: 2591
+		},
+		{
+			runway: "35R",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 000,
+			runwayLength: 2591
+		}
+	]
+	}
+)
+
+db.airports.save(
+	{
+	airportName: "George Bush Intercontinental Airport",
+	iataCode: "IAH",
+	icaoCode: "KIAH",
+	lat: 29.9844444,
+	long: -95.3414444,
+    runways: 
+	[
+		{
+			runway: "15L",
+			runwayHeadingMagnetic: 149,
+			runwayHeadingTrue: 152,
+			runwayLength: 3658
+		},
+		{
+			runway: "35R",
+			runwayHeadingMagnetic: 329,
+			runwayHeadingTrue: 332,
+			runwayLength: 3658
+		},
+		{
+			runway: "9",
+			runwayHeadingMagnetic: 087,
+			runwayHeadingTrue: 090,
+			runwayLength: 3048
+		},
+		{
+			runway: "27",
+			runwayHeadingMagnetic: 267,
+			runwayHeadingTrue: 270,
+			runwayLength: 3048
+		},
+		{
+			runway: "15R",
+			runwayHeadingMagnetic: 149,
+			runwayHeadingTrue: 152,
+			runwayLength: 3048
+		},
+		{
+			runway: "33L",
+			runwayHeadingMagnetic: 329,
+			runwayHeadingTrue: 332,
+			runwayLength: 3048
+		},
+		{
+			runway: "8R",
+			runwayHeadingMagnetic: 087,
+			runwayHeadingTrue: 090,
+			runwayLength: 2866
+		},
+		{
+			runway: "26L",
+			runwayHeadingMagnetic: 267,
+			runwayHeadingTrue: 270,
+			runwayLength: 2866
+		},
+		{
+			runway: "8L",
+			runwayHeadingMagnetic: 087,
+			runwayHeadingTrue: 090,
+			runwayLength: 2743
+		},
+		{
+			runway: "26R",
+			runwayHeadingMagnetic: 267,
+			runwayHeadingTrue: 270,
+			runwayLength: 2743
+		}
+	]
+}
+)
+db.airports.save(
+	{
+	airportName: "William P. Hobby Airport",
+	iataCode: "HOU",
+	icaoCode: "KHOU",
+	lat: 29.6454167,
+	long: -95.2788889,
+    runways: 
+	[
+		{
+			runway: "4",
+			runwayHeadingMagnetic: 041,
+			runwayHeadingTrue: 044,
+			runwayLength: 2317
+		},
+		{
+			runway: "44",
+			runwayHeadingMagnetic: 221,
+			runwayHeadingTrue: 224,
+			runwayLength: 2317
+		},
+		{
+			runway: "13R",
+			runwayHeadingMagnetic: 131,
+			runwayHeadingTrue: 134,
+			runwayLength: 2316
+		},
+		{
+			runway: "31L",
+			runwayHeadingMagnetic: 311,
+			runwayHeadingTrue: 314,
+			runwayLength: 2316
+		},
+		{
+			runway: "17",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 179,
+			runwayLength: 1829
+		},
+		{
+			runway: "35",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 359,
+			runwayLength: 1829
+		},
+		{
+			runway: "13L",
+			runwayHeadingMagnetic: 131,
+			runwayHeadingTrue: 134,
+			runwayLength: 1569
+		},
+		{
+			runway: "31R",
+			runwayHeadingMagnetic: 311,
+			runwayHeadingTrue: 314,
+			runwayLength: 1569
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Austin-Bergstrom International Airport",
+	iataCode: "AUS",
+	icaoCode: "KAUS",
+	lat: 30.1945278,
+	long: -97.6698889,
+    runways: 
+	[
+		{
+			runway: "17R",
+			runwayHeadingMagnetic: 173,
+			runwayHeadingTrue: 179,
+			runwayLength: 3734
+		},
+		{
+			runway: "35L",
+			runwayHeadingMagnetic: 353,
+			runwayHeadingTrue: 359,
+			runwayLength: 3734
+		},
+		{
+			runway: "17L",
+			runwayHeadingMagnetic: 173,
+			runwayHeadingTrue: 179,
+			runwayLength: 2734
+		},
+		{
+			runway: "35R",
+			runwayHeadingMagnetic: 353,
+			runwayHeadingTrue: 359,
+			runwayLength: 2734
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "San Antonio International Airport",
+	iataCode: "SAT",
+	icaoCode: "KSAT",
+	lat: 29.5339580,
+	long: -98.4690571,
+    runways: 
+	[
+		{
+			runway: "4",
+			runwayHeadingMagnetic: 033,
+			runwayHeadingTrue: 041,
+			runwayLength: 2592
+		},
+		{
+			runway: "22",
+			runwayHeadingMagnetic: 213,
+			runwayHeadingTrue: 221,
+			runwayLength: 2592
+		},
+		{
+			runway: "12R",
+			runwayHeadingMagnetic: 124,
+			runwayHeadingTrue: 132,
+			runwayLength: 2591
+		},
+		{
+			runway: "30L",
+			runwayHeadingMagnetic: 304,
+			runwayHeadingTrue: 312,
+			runwayLength: 2591
+		},
+		{
+			runway: "12L",
+			runwayHeadingMagnetic: 124,
+			runwayHeadingTrue: 132,
+			runwayLength: 1682
+		},
+		{
+			runway: "30R",
+			runwayHeadingMagnetic: 304,
+			runwayHeadingTrue: 312,
+			runwayLength: 1682
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Dallas Love Field",
+	iataCode: "DAL",
+	icaoCode: "KDAL",
+	lat: 32.8471122,
+	long: -98.8517719,
+    runways: 
+	[
+		{
+			runway: "13R",
+			runwayHeadingMagnetic: 133,
+			runwayHeadingTrue: 136,
+			runwayLength: 2682
+		},
+		{
+			runway: "31L",
+			runwayHeadingMagnetic: 313,
+			runwayHeadingTrue: 316,
+			runwayLength: 2682
+		},
+		{
+			runway: "13L",
+			runwayHeadingMagnetic: 133,
+			runwayHeadingTrue: 136,
+			runwayLength: 2363
+		},
+		{
+			runway: "31R",
+			runwayHeadingMagnetic: 313,
+			runwayHeadingTrue: 316,
+			runwayLength: 2363
+		},
+		{
+			runway: "18",
+			runwayHeadingMagnetic: 183,
+			runwayHeadingTrue: 186,
+			runwayLength: 1874
+		},
+		{
+			runway: "36",
+			runwayHeadingMagnetic: 003,
+			runwayHeadingTrue: 006,
+			runwayLength: 1874
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "EL Paso International Airport",
+	iataCode: "ELP",
+	icaoCode: "KELP",
+	lat: 31.8073333,
+	long: -106.3763611,
+    runways: 
+	[
+		{
+			runway: "4",
+			runwayHeadingMagnetic: 042,
+			runwayHeadingTrue: 050,
+			runwayLength: 3664
+		},
+		{
+			runway: "22",
+			runwayHeadingMagnetic: 222,
+			runwayHeadingTrue: 230,
+			runwayLength: 3664
+		},
+		{
+			runway: "8R",
+			runwayHeadingMagnetic: 085,
+			runwayHeadingTrue: 093,
+			runwayLength: 2751
+		},
+		{
+			runway: "26L",
+			runwayHeadingMagnetic: 265,
+			runwayHeadingTrue: 273,
+			runwayLength: 2751
+		},
+		{
+			runway: "8L",
+			runwayHeadingMagnetic: 085,
+			runwayHeadingTrue: 093,
+			runwayLength: 1676
+		},
+		{
+			runway: "26R",
+			runwayHeadingMagnetic: 265,
+			runwayHeadingTrue: 273,
+			runwayLength: 1676
+		}
+	]
+}	
+)
+
+db.airports.save(
+	{
+	airportName: "Lubbock Preston Smith International Airport",
+	iataCode: "LBB",
+	icaoCode: "KLBB",
+	lat: 33.6636667,
+	long: -101.8205556,
+    runways: 
+	[
+		{
+			runway: "17R",
+			runwayHeadingMagnetic: 171,
+			runwayHeadingTrue: 180,
+			runwayLength: 3505
+		},
+		{
+			runway: "35L",
+			runwayHeadingMagnetic: 351,
+			runwayHeadingTrue: 360,
+			runwayLength: 3505
+		},
+		{
+			runway: "8",
+			runwayHeadingMagnetic: 080,
+			runwayHeadingTrue: 089,
+			runwayLength: 2439
+		},
+		{
+			runway: "26",
+			runwayHeadingMagnetic: 260,
+			runwayHeadingTrue: 269,
+			runwayLength: 2439
+		},
+		{
+			runway: "17L",
+			runwayHeadingMagnetic: 171,
+			runwayHeadingTrue: 180,
+			runwayLength: 881
+		},
+		{
+			runway: "35R",
+			runwayHeadingMagnetic: 351,
+			runwayHeadingTrue: 360,
+			runwayLength: 881
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Midland International Airport",
+	iataCode: "MAF",
+	icaoCode: "KMAF",
+	lat: 31.9425278,
+	long: -102.2019167,
+    runways: 
+	[
+		{
+			runway: "16R",
+			runwayHeadingMagnetic: 166,
+			runwayHeadingTrue: 175,
+			runwayLength: 2896
+		},
+		{
+			runway: "34L",
+			runwayHeadingMagnetic: 346,
+			runwayHeadingTrue: 355,
+			runwayLength: 2896
+		},
+		{
+			runway: "10",
+			runwayHeadingMagnetic: 105,
+			runwayHeadingTrue: 114,
+			runwayLength: 2530
+		},
+		{
+			runway: "28",
+			runwayHeadingMagnetic: 285,
+			runwayHeadingTrue: 294,
+			runwayLength: 2530
+		},
+		{
+			runway: "4",
+			runwayHeadingMagnetic: 045,
+			runwayHeadingTrue: 054,
+			runwayLength: 1404
+		},
+		{
+			runway: "22",
+			runwayHeadingMagnetic: 225,
+			runwayHeadingTrue: 234,
+			runwayLength: 1404
+		},
+		{
+			runway: "16L",
+			runwayHeadingMagnetic: 168,
+			runwayHeadingTrue: 177,
+			runwayLength: 1294
+		},
+		{
+			runway: "34R",
+			runwayHeadingMagnetic: 348,
+			runwayHeadingTrue: 357,
+			runwayLength: 1294
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Rick Husband Amarillo International Airport",
+	iataCode: "AMA",
+	icaoCode: "KAMA",
+	lat: 35.2193611,
+	long: -101.7059167,
+    runways: 
+	[
+		{
+			runway: "4",
+			runwayHeadingMagnetic: 038,
+			runwayHeadingTrue: 046,
+			runwayLength: 4115
+		},
+		{
+			runway: "22",
+			runwayHeadingMagnetic: 218,
+			runwayHeadingTrue: 226,
+			runwayLength: 4115
+		},
+		{
+			runway: "13",
+			runwayHeadingMagnetic: 129,
+			runwayHeadingTrue: 137,
+			runwayLength: 2408
+		},
+		{
+			runway: "31",
+			runwayHeadingMagnetic: 309,
+			runwayHeadingTrue: 317,
+			runwayLength: 2408
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Valley International Airport",
+	iataCode: "HRL",
+	icaoCode: "KHRL",
+	lat: 26.2271111,
+	long: -97.6551389,
+    runways: 
+	[
+		{
+			runway: "17R",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 181,
+			runwayLength: 2530
+		},
+		{
+			runway: "35L",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 001,
+			runwayLength: 2530
+		},
+		{
+			runway: "13",
+			runwayHeadingMagnetic: 131,
+			runwayHeadingTrue: 136,
+			runwayLength: 2212
+		},
+		{
+			runway: "31",
+			runwayHeadingMagnetic: 311,
+			runwayHeadingTrue: 316,
+			runwayLength: 2212
+		},
+		{
+			runway: "17L",
+			runwayHeadingMagnetic: 176,
+			runwayHeadingTrue: 181,
+			runwayLength: 1813
+		},
+		{
+			runway: "35R",
+			runwayHeadingMagnetic: 356,
+			runwayHeadingTrue: 001,
+			runwayLength: 1813
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "McAllen-Miller International Airport",
+	iataCode: "MFE",
+	icaoCode: "KMFE",
+	lat: 26.1758333,
+	long: -98.2386111,
+    runways: 
+	[
+		{
+			runway: "14",
+			runwayHeadingMagnetic: 137,
+			runwayHeadingTrue: 141,
+			runwayLength: 2170
+		},
+		{
+			runway: "32",
+			runwayHeadingMagnetic: 317,
+			runwayHeadingTrue: 321,
+			runwayLength: 2170
+		},
+		{
+			runway: "18",
+			runwayHeadingMagnetic: 185,
+			runwayHeadingTrue: 189,
+			runwayLength: 804
+		},
+		{
+			runway: "36",
+			runwayHeadingMagnetic: 005,
+			runwayHeadingTrue: 009,
+			runwayLength: 804
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Corpus Christi International Airport",
+	iataCode: "CRP",
+	icaoCode: "KCRP",
+	lat: 27.7721944,
+	long: -97.5024167,
+    runways: 
+	[
+		{
+			runway: "13",
+			runwayHeadingMagnetic: 132,
+			runwayHeadingTrue: 136,
+			runwayLength: 2289
+		},
+		{
+			runway: "31",
+			runwayHeadingMagnetic: 312,
+			runwayHeadingTrue: 316,
+			runwayLength: 2289
+		},
+		{
+			runway: "18",
+			runwayHeadingMagnetic: 175,
+			runwayHeadingTrue: 179,
+			runwayLength: 1853
+		},
+		{
+			runway: "36",
+			runwayHeadingMagnetic: 355,
+			runwayHeadingTrue: 359,
+			runwayLength: 1853
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Killeen-Fort Hood Regional Airport",
+	iataCode: "GRK",
+	icaoCode: "KGRK",
+	lat: 31.0672500,
+	long: -97.8289167,
+    runways: 
+	[
+		{
+			runway: "15",
+			runwayHeadingMagnetic: 150,
+			runwayHeadingTrue: 157,
+			runwayLength: 3048
+		},
+		{
+			runway: "33",
+			runwayHeadingMagnetic: 330,
+			runwayHeadingTrue: 337,
+			runwayLength: 3048
+		}
+	]
+}	
+)
+db.airports.save(
+	{
+	airportName: "Laredo International Airport",
+	iataCode: "LRD",
+	icaoCode: "KLRD",
+	lat: 27.5441944,
+	long: -99.4615833,
+    runways: 
+	[
+		{
+			runway: "17R",
+			runwayHeadingMagnetic: 175,
+			runwayHeadingTrue: 183,
+			runwayLength: 2665
+		},
+		{
+			runway: "35L",
+			runwayHeadingMagnetic: 355,
+			runwayHeadingTrue: 003,
+			runwayLength: 2665
+		},
+		{
+			runway: "17L",
+			runwayHeadingMagnetic: 175,
+			runwayHeadingTrue: 183,
+			runwayLength: 2510
+		},
+		{
+			runway: "35R",
+			runwayHeadingMagnetic: 355,
+			runwayHeadingTrue: 003,
+			runwayLength: 2510
+		},
+		{
+			runway: "14",
+			runwayHeadingMagnetic: 139,
+			runwayHeadingTrue: 147,
+			runwayLength: 1807
+		},
+		{
+			runway: "32",
+			runwayHeadingMagnetic: 219,
+			runwayHeadingTrue: 327,
+			runwayLength: 1807
+		}
+	]
+}	
+)

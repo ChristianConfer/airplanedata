@@ -1,0 +1,2938 @@
+db.vfri.save (
+    {
+	weight: 18000
+	flap5: 116
+	flap10:110
+	flap15: 107
+	vclimb: 130
+    }
+
+)
+db.vfri.save(
+	{
+		weight: 18000,
+		flap5: 116,
+		flap10: 110,
+		flap15: 107,
+		vclmb: 130
+	}
+)
+
+db.vfri.save(
+	{
+		weight: 20000,
+		flap5: 120,
+		flap10: 112,
+		flap15: 109,
+		vclmb: 131
+	}
+)
+
+db.vfri.save(
+	{
+		weight: 22000,
+		flap5: 126,
+		flap10: 118,
+		flap15: 115,
+		vclmb: 137
+	}
+)
+
+db.vfri.save(
+	{
+		weight: 24000,
+		flap5: 132,
+		flap10: 123,
+		flap15: 120,
+		vclmb: 143
+	}
+)
+
+db.vfri.save(
+	{
+		weight: 26000,
+		flap5: 137,
+		flap10: 128,
+		flap15: 125,
+		vclmb: 148
+	}
+)
+
+db.vfri.save(
+	{
+		weight: 28000,
+		flap5: 142,
+		flap10: 134,
+		flap15: 130,
+		vclmb: 154
+	}
+)
+
+db.vfri.save(
+	{
+		weight: 29000,
+		flap5: 146,
+		flap10: 137,
+		flap15: 133,
+		vclmb: 158
+	}
+)
+
+
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 0,
+		Vr: 100,
+		V2: 111,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 2000,
+		Vr: 100,
+		V2: 110,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 4000,
+		Vr: 100,
+		V2: 110,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 6000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 8000,
+		Vr: 100,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 10000,
+		Vr: 100,
+		V2: 107,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 0,
+		Vr: 100,
+		V2: 110,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 2000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 4000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 6000,
+		Vr: 100,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 8000,
+		Vr: 100,
+		V2: 107,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 10000,
+		Vr: 101,
+		V2: 106,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 0,
+		Vr: 103,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 2000,
+		Vr: 105,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 4000,
+		Vr: 105,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 6000,
+		Vr: 105,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 8000,
+		Vr: 106,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 10000,
+		Vr: 108,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 0,
+		Vr: 109,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 2000,
+		Vr: 110,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 4000,
+		Vr: 111,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 6000,
+		Vr: 111,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 8000,
+		Vr: 112,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 10000,
+		Vr: 113,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 0,
+		Vr: 115,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 2000,
+		Vr: 116,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 4000,
+		Vr: 116,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 6000,
+		Vr: 117,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 8000,
+		Vr: 118,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 10000,
+		Vr: 119,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 0,
+		Vr: 120,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 2000,
+		Vr: 121,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 4000,
+		Vr: 122,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 6000,
+		Vr: 122,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 8000,
+		Vr: 123,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 10000,
+		Vr: 124,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 0,
+		Vr: 124,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 2000,
+		Vr: 125,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 4000,
+		Vr: 125,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 6000,
+		Vr: 126,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 8000,
+		Vr: 127,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 10000,
+		Vr: 128,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 0,
+		Vr: 102,
+		V2: 114,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 2000,
+		Vr: 102,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 4000,
+		Vr: 102,
+		V2: 112,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 6000,
+		Vr: 103,
+		V2: 111,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 8000,
+		Vr: 103,
+		V2: 110,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 18000,
+		altitude: 10000,
+		Vr: 105,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 0,
+		Vr: 107,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 2000,
+		Vr: 108,
+		V2: 112,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 4000,
+		Vr: 108,
+		V2: 112,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 6000,
+		Vr: 110,
+		V2: 111,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 8000,
+		Vr: 110,
+		V2: 111,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 20000,
+		altitude: 10000,
+		Vr: 112,
+		V2: 111,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 0,
+		Vr: 113,
+		V2: 117,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 2000,
+		Vr: 114,
+		V2: 117,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 4000,
+		Vr: 115,
+		V2: 117,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 6000,
+		Vr: 116,
+		V2: 117,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 8000,
+		Vr: 117,
+		V2: 117,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 22000,
+		altitude: 10000,
+		Vr: 118,
+		V2: 117,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 0,
+		Vr: 120,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 2000,
+		Vr: 120,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 4000,
+		Vr: 121,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 6000,
+		Vr: 122,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 8000,
+		Vr: 123,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 24000,
+		altitude: 10000,
+		Vr: 124,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 0,
+		Vr: 126,
+		V2: 127,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 2000,
+		Vr: 126,
+		V2: 127,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 4000,
+		Vr: 127,
+		V2: 127,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 6000,
+		Vr: 128,
+		V2: 127,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 8000,
+		Vr: 129,
+		V2: 127,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 26000,
+		altitude: 10000,
+		Vr: 130,
+		V2: 127,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 0,
+		Vr: 131,
+		V2: 132,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 2000,
+		Vr: 132,
+		V2: 132,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 4000,
+		Vr: 133,
+		V2: 132,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 6000,
+		Vr: 134,
+		V2: 132,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 8000,
+		Vr: 135,
+		V2: 132,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 28000,
+		altitude: 10000,
+		Vr: 136,
+		V2: 132,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 0,
+		Vr: 135,
+		V2: 135,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 2000,
+		Vr: 136,
+		V2: 135,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 4000,
+		Vr: 137,
+		V2: 135,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 6000,
+		Vr: 138,
+		V2: 135,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 8000,
+		Vr: 138,
+		V2: 135,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps5",
+    	weight: 29000,
+		altitude: 10000,
+		Vr: 140,
+		V2: 135,
+		above20cOAT: true
+	}
+)
+
+
+
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 0,
+		Vr: 100,
+		V2: 111,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 2000,
+		Vr: 100,
+		V2: 110,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 4000,
+		Vr: 100,
+		V2: 110,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 6000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 8000,
+		Vr: 100,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 10000,
+		Vr: 100,
+		V2: 107,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 0,
+		Vr: 100,
+		V2: 110,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 2000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 4000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 6000,
+		Vr: 100,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 8000,
+		Vr: 100,
+		V2: 107,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 10000,
+		Vr: 101,
+		V2: 106,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 0,
+		Vr: 103,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 2000,
+		Vr: 105,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 4000,
+		Vr: 105,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 6000,
+		Vr: 105,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 8000,
+		Vr: 106,
+		V2: 108,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 10000,
+		Vr: 101,
+		V2: 106,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 0,
+		Vr: 109,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 2000,
+		Vr: 110,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 4000,
+		Vr: 111,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 6000,
+		Vr: 111,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 8000,
+		Vr: 112,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 10000,
+		Vr: 113,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 0,
+		Vr: 115,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 2000,
+		Vr: 116,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 4000,
+		Vr: 116,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 6000,
+		Vr: 117,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 8000,
+		Vr: 118,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 10000,
+		Vr: 119,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 0,
+		Vr: 120,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 2000,
+		Vr: 121,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 4000,
+		Vr: 122,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 6000,
+		Vr: 122,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 8000,
+		Vr: 123,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 10000,
+		Vr: 124,
+		V2: 122,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 0,
+		Vr: 124,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 2000,
+		Vr: 125,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 4000,
+		Vr: 125,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 6000,
+		Vr: 126,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 8000,
+		Vr: 127,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 10000,
+		Vr: 128,
+		V2: 125,
+		above20cOAT: false
+	}
+)
+
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 0,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 2000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 4000,
+		Vr: 100,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 6000,
+		Vr: 100,
+		V2: 107,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 8000,
+		Vr: 0,
+		V2: 106,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 18000,
+		altitude: 10000,
+		Vr: 0,
+		V2: 105,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 0,
+		Vr: 100,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 2000,
+		Vr: 100,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 4000,
+		Vr: 100,
+		V2: 107,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 6000,
+		Vr: 100,
+		V2: 106,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 8000,
+		Vr: 0,
+		V2: 105,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 20000,
+		altitude: 10000,
+		Vr: 0,
+		V2: 105,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 0,
+		Vr: 104,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 2000,
+		Vr: 106,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 4000,
+		Vr: 106,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 6000,
+		Vr: 106,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 8000,
+		Vr: 0,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 22000,
+		altitude: 10000,
+		Vr: 0,
+		V2: 108,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 0,
+		Vr: 110,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 2000,
+		Vr: 111,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 4000,
+		Vr: 112,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 6000,
+		Vr: 112,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 8000,
+		Vr: 0,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 24000,
+		altitude: 10000,
+		Vr: 0,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 0,
+		Vr: 116,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 2000,
+		Vr: 117,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 4000,
+		Vr: 117,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 6000,
+		Vr: 118,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 8000,
+		Vr: 0,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 26000,
+		altitude: 10000,
+		Vr: 0,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 0,
+		Vr: 121,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 2000,
+		Vr: 122,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 4000,
+		Vr: 123,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 6000,
+		Vr: 123,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 8000,
+		Vr: 0,
+		V2: 22,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 28000,
+		altitude: 10000,
+		Vr: 0,
+		V2: 122,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 0,
+		Vr: 125,
+		V2: 125,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 2000,
+		Vr: 125,
+		V2: 125,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 4000,
+		Vr: 126,
+		V2: 125,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 6000,
+		Vr: 127,
+		V2: 125,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 8000,
+		Vr: 0,
+		V2: 125,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps10",
+    	weight: 29000,
+		altitude: 10000,
+		Vr: 0,
+		V2: 125,
+		above20cOAT: true
+	}
+)
+
+
+
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 0,
+		Vr: 98,
+		V2: 106,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 2000,
+		Vr: 98,
+		V2: 106,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 4000,
+		Vr: 98,
+		V2: 105,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 6000,
+		Vr: 98,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 8000,
+		Vr: 98,
+		V2: 103,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 10000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 0,
+		Vr: 98,
+		V2: 105,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 2000,
+		Vr: 98,
+		V2: 105,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 4000,
+		Vr: 98,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 6000,
+		Vr: 98,
+		V2: 103,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 8000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 10000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 0,
+		Vr: 100,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 2000,
+		Vr: 101,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 4000,
+		Vr: 101,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 6000,
+		Vr: 102,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 8000,
+		Vr: 103,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 10000,
+		Vr: 104,
+		V2: 104,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 0,
+		Vr: 106,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 2000,
+		Vr: 106,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 4000,
+		Vr: 107,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 6000,
+		Vr: 108,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 8000,
+		Vr: 108,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 10000,
+		Vr: 109,
+		V2: 109,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 0,
+		Vr: 111,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 2000,
+		Vr: 112,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 4000,
+		Vr: 112,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 6000,
+		Vr: 113,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 8000,
+		Vr: 114,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 10000,
+		Vr: 114,
+		V2: 113,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 0,
+		Vr: 116,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 2000,
+		Vr: 117,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 4000,
+		Vr: 117,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 6000,
+		Vr: 118,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 8000,
+		Vr: 118,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 10000,
+		Vr: 119,
+		V2: 118,
+		above20cOAT: false
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 0,
+		Vr: 119,
+		V2: 120,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 2000,
+		Vr: 120,
+		V2: 120,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 4000,
+		Vr: 120,
+		V2: 120,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 6000,
+		Vr: 121,
+		V2: 120,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 8000,
+		Vr: 122,
+		V2: 120,
+		above20cOAT: false
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 10000,
+		Vr: 122,
+		V2: 120,
+		above20cOAT: false
+	}
+)
+
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 0,
+		Vr: 98,
+		V2: 105,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 2000,
+		Vr: 98,
+		V2: 104,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 4000,
+		Vr: 98,
+		V2: 103,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 6000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 8000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 18000,
+		altitude: 10000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 0,
+		Vr: 98,
+		V2: 103,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 2000,
+		Vr: 98,
+		V2: 103,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 4000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 6000,
+		Vr: 98,
+		V2: 102,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 8000,
+		Vr: 99,
+		V2: 102,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 20000,
+		altitude: 10000,
+		Vr: 99,
+		V2: 102,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 0,
+		Vr: 101,
+		V2: 104,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 2000,
+		Vr: 102,
+		V2: 104,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 4000,
+		Vr: 103,
+		V2: 104,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 6000,
+		Vr: 104,
+		V2: 104,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 8000,
+		Vr: 104,
+		V2: 104,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 22000,
+		altitude: 10000,
+		Vr: 104,
+		V2: 104,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 0,
+		Vr: 107,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 2000,
+		Vr: 108,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 4000,
+		Vr: 108,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 6000,
+		Vr: 109,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 8000,
+		Vr: 110,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 24000,
+		altitude: 10000,
+		Vr: 110,
+		V2: 109,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 0,
+		Vr: 112,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 2000,
+		Vr: 113,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 4000,
+		Vr: 114,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 6000,
+		Vr: 114,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 8000,
+		Vr: 115,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 26000,
+		altitude: 10000,
+		Vr: 115,
+		V2: 113,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 0,
+		Vr: 117,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 2000,
+		Vr: 118,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 4000,
+		Vr: 119,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 6000,
+		Vr: 119,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 8000,
+		Vr: 120,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 28000,
+		altitude: 10000,
+		Vr: 120,
+		V2: 118,
+		above20cOAT: true
+	}
+)
+
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 0,
+		Vr: 120,
+		V2: 120,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 2000,
+		Vr: 121,
+		V2: 120,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 4000,
+		Vr: 121,
+		V2: 120,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 6000,
+		Vr: 122,
+		V2: 120,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 8000,
+		Vr: 123,
+		V2: 120,
+		above20cOAT: true
+	}
+)
+db.flapv.save(
+	{
+    	setting: "flaps15",
+    	weight: 29000,
+		altitude: 10000,
+		Vr: 123,
+		V2: 120,
+		above20cOAT: true
+	}
+)
+
+
+//////////////////////////////////////////////////////////////
+
+db.flap.save(
+	{
+		setting: "flap5",
+		weight: 18000,
+		vapp: 115,
+		vref: 0,
+		vga: 109
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap5",
+		weight: 20000,
+		vapp: 120,
+		vref: 0,
+		vga: 110
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap5",
+		weight: 22000,
+		vapp: 126,
+		vref: 0,
+		vga: 115
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap5",
+		weight: 24000,
+		vapp: 131,
+		vref: 0,
+		vga: 120
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap5",
+		weight: 26000,
+		vapp: 137,
+		vref: 0,
+		vga: 125
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap5",
+		weight: 28000,
+		vapp: 142,
+		vref: 0,
+		vga: 130
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap5",
+		weight: 29000,
+		vapp: 146,
+		vref: 0,
+		vga: 134
+	}
+)
+
+
+db.flap.save(
+	{
+		setting: "flap10",
+		weight: 18000,
+		vapp: 109,
+		vref: 108,
+		vga: 108
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap10",
+		weight: 20000,
+		vapp: 112,
+		vref: 112,
+		vga: 108
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap10",
+		weight: 22000,
+		vapp: 117,
+		vref: 117,
+		vga: 108
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap10",
+		weight: 24000,
+		vapp: 122,
+		vref: 122,
+		vga: 112
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap10",
+		weight: 26000,
+		vapp: 127,
+		vref: 127,
+		vga: 117
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap10",
+		weight: 28000,
+		vapp: 132,
+		vref: 132,
+		vga: 130
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap10",
+		weight: 29000,
+		vapp: 136,
+		vref: 136,
+		vga: 125
+	}
+)
+
+
+db.flap.save(
+	{
+		setting: "flap15",
+		weight: 18000,
+		vapp: 106,
+		vref: 105,
+		vga: 105
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap15",
+		weight: 20000,
+		vapp: 106,
+		vref: 106,
+		vga: 105
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap15",
+		weight: 22000,
+		vapp: 112,
+		vref: 112,
+		vga: 105
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap15",
+		weight: 24000,
+		vapp: 117,
+		vref: 117,
+		vga: 107
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap15",
+		weight: 26000,
+		vapp: 122,
+		vref: 121,
+		vga: 111
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap15",
+		weight: 28000,
+		vapp: 126,
+		vref: 126,
+		vga: 116
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap15",
+		weight: 29000,
+		vapp: 129,
+		vref: 129,
+		vga: 119
+	}
+)
+
+
+db.flap.save(
+	{
+		setting: "flap35",
+		weight: 18000,
+		vapp: 0,
+		vref: 101,
+		vga: 0
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap35",
+		weight: 20000,
+		vapp: 0,
+		vref: 102,
+		vga: 0
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap35",
+		weight: 22000,
+		vapp: 0,
+		vref: 107,
+		vga: 0
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap35",
+		weight: 24000,
+		vapp: 0,
+		vref: 112,
+		vga: 0
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap35",
+		weight: 26000,
+		vapp: 0,
+		vref: 116,
+		vga: 0
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap35",
+		weight: 28000,
+		vapp: 0,
+		vref: 120,
+		vga: 0
+	}
+)
+
+db.flap.save(
+	{
+		setting: "flap35",
+		weight: 29000,
+		vapp: 0,
+		vref: 123,
+		vga: 0
+	}
+)

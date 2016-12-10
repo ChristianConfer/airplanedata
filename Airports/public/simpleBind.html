@@ -1,0 +1,13 @@
+<!doctype html>
+<html ng-app="myApp">
+    <head>
+        <meta charset="utf-8">
+        <script src="angular/angular.min.js"></script>
+        <script src="javascripts/simpleBind.js"></script>        
+        <title>Angular Binding Test</title>
+    </head>
+    <body ng-controller="myController">
+        <input ng-model="myInput" />
+        <h1>Hello {{ myInput }}</h1>
+    </body>
+</html>

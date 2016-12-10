@@ -1,0 +1,232 @@
+doctype html
+html
+  head
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    title Airplanes
+    // link(rel='stylesheet', href='/bootstrap/css/amelia.bootstrap.css')
+    // link(rel='stylesheet', href='/stylesheets/style.css')
+  
+  body
+    
+    h2 
+     p Flap Retraction initiation Speed (VFRI) </br> Final Takeoff Speed
+    
+    div
+        table(border='0.5' borderColor='white')
+            thead
+                tr 
+                    th(style="background-color: #b8af94; padding: 8px;") WEIGHT
+                    th(style="background-color: #e0ddd1; padding: 4px") VFRI Flap 5º
+                    th(style="background-color: #e0ddd1; padding: 4px") VFRI Flap 10º
+                    th(style="background-color: #e0ddd1; padding: 4px") VFRI Flap 15º
+                    th(style="background-color: #e0ddd1; padding: 4px") VCLIMB
+            tbody
+                each vfri in vfris
+                    tr
+                        td(style="background-color: #e0ddd1; padding: 4px")= vfri.weight
+                        td(style="background-color: #c6ccb3")= vfri.flap5
+                        td(style="background-color: #c6ccb3")= vfri.flap10
+                        td(style="background-color: #c6ccb3")= vfri.flap15
+                        td(style="background-color: #c6ccb3")= vfri.vclmb
+                        
+    h2 FLAPS 5º  Vr/V2
+    
+    div
+        table(border="1")
+            thead
+                tr
+                    th
+                    th(colspan="6") AT OR BELOW 20ºC OAT
+                    th(colspan="6") ABOVE 20ºC OAT
+                tr
+                    th WEIGHT/ALTITUDE
+                    th 0
+                    th 2000
+                    th 4000
+                    th 6000
+                    th 8000
+                    th 10000
+                    th 0
+                    th 2000
+                    th 4000
+                    th 6000
+                    th 8000
+                    th 10000
+            tbody
+                each flapv5 in flapv5s
+                    tr
+                        td= flapv5.weight
+                        td= flapv5.b0
+                        td= flapv5.b2000
+                        td= flapv5.b4000
+                        td= flapv5.b6000
+                        td= flapv5.b8000
+                        td= flapv5.b10000
+                        td= flapv5.a0
+                        td= flapv5.a2000
+                        td= flapv5.a4000
+                        td= flapv5.a6000
+                        td= flapv5.a8000
+                        td= flapv5.a10000
+                        
+                        
+    h2 FLAPS 10º  Vr/V2
+    
+    div
+        table(border="1")
+            thead
+                tr
+                    th
+                    th(colspan="6") AT OR BELOW 20ºC OAT
+                    th(colspan="6") ABOVE 20ºC OAT
+                tr
+                    th WEIGHT/ALTITUDE
+                    th 0
+                    th 2000
+                    th 4000
+                    th 6000
+                    th 8000
+                    th 10000
+                    th 0
+                    th 2000
+                    th 4000
+                    th 6000
+                    th 8000
+                    th 10000
+            tbody
+                each flapv10 in flapv10s
+                    tr
+                        td= flapv10.weight
+                        td= flapv10.b0
+                        td= flapv10.b2000
+                        td= flapv10.b4000
+                        td= flapv10.b6000
+                        td= flapv10.b8000
+                        td= flapv10.b10000
+                        td= flapv10.a0
+                        td= flapv10.a2000
+                        td= flapv10.a4000
+                        td= flapv10.a6000
+                        td= flapv10.a8000
+                        td= flapv10.a10000
+                        
+                        
+    h2 FLAPS 15º  Vr/V2
+    
+    div
+        table(border="1")
+            thead
+                tr
+                    th
+                    th(colspan="6") AT OR BELOW 20ºC OAT
+                    th(colspan="6") ABOVE 20ºC OAT
+                tr
+                    th WEIGHT/ALTITUDE
+                    th 0
+                    th 2000
+                    th 4000
+                    th 6000
+                    th 8000
+                    th 10000
+                    th 0
+                    th 2000
+                    th 4000
+                    th 6000
+                    th 8000
+                    th 10000
+            tbody
+                each flapv15 in flapv15s
+                    tr
+                        td= flapv15.weight
+                        td= flapv15.b0
+                        td= flapv15.b2000
+                        td= flapv15.b4000
+                        td= flapv15.b6000
+                        td= flapv15.b8000
+                        td= flapv15.b10000
+                        td= flapv15.a0
+                        td= flapv15.a2000
+                        td= flapv15.a4000
+                        td= flapv15.a6000
+                        td= flapv15.a8000
+                        td= flapv15.a10000
+                        
+                        
+    h2 FLAPS 5º
+    
+    div
+        table(border='1')
+            thead
+                tr
+                    th WEIGHT
+                    th V app
+                    th V ref
+                    th V ga
+            tbody
+                each flap5 in flap5s
+                    tr
+                        td= flap5.weight
+                        td= flap5.vapp
+                        td= flap5.vref
+                        td= flap5.vga
+                        
+    h2 FLAPS 10º
+    
+    div
+        table(border='1')
+            thead
+                tr
+                    th WEIGHT
+                    th V app
+                    th V ref
+                    th V ga
+            tbody
+                each flap10 in flap10s
+                    tr
+                        td= flap10.weight
+                        td= flap10.vapp
+                        td= flap10.vref
+                        td= flap10.vga
+                        
+    h2 FLAPS 15º
+    
+    div
+        table(border='1')
+            thead
+                tr
+                    th WEIGHT
+                    th V app
+                    th V ref
+                    th V ga
+            tbody
+                each flap15 in flap15s
+                    tr
+                        td= flap15.weight
+                        td= flap15.vapp
+                        td= flap15.vref
+                        td= flap15.vga
+                        
+    h2 FLAPS 35º
+    
+    div
+        table(border='1')
+            thead
+                tr
+                    th WEIGHT
+                    th V app
+                    th V ref
+                    th V ga
+            tbody
+                each flap35 in flap35s
+                    tr
+                        td= flap35.weight
+                        td= flap35.vapp
+                        td= flap35.vref
+                        td= flap35.vga
+                        
+                        
+    
+
+    script(src='/javascripts/jquery-1.11.1.min.js')
+    script(src='/bootstrap/js/bootstrap.min.js')
+    // script(src='/javascripts/validation.js')
